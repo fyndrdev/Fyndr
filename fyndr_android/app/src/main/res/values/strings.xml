@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">fyndr_android</string>
+    <string name="app_name">Fyndr</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+
+    <!--Actions-->
     <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
 </resources>
