@@ -1,4 +1,4 @@
-package florianthompson.com.fyndr_android;
+package florianthompson.com.fyndr;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

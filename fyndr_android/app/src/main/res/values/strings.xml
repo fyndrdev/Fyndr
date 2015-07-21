@@ -1,9 +1,25 @@
 <resources>
-    <string name="app_name">Fyndr</string>
 
-    <string name="hello_world" translatable="false">Hello world!</string>
+    <!-- Initializer -->
+    <string name="facebook_app_id">102794263403878</string>
+
+    <!-- Activities -->
+    <string name="app_name">Fyndr</string>
+    <string name="title_activity_login">Login</string>
 
     <!--Actions-->
     <string name="action_settings">Settings</string>
     <string name="action_search">Search</string>
+
+    <!-- Hints -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <!-- Buttons -->
+    <string name="button_sign_in">SIGN IN</string>
+
+    <!-- Labels -->
+    <string name="string_sign_up">Don\'t have an Account? Sign Up!</string>
+    <string name="subtitle">fynd action in your city.</string>
+
 </resources>
