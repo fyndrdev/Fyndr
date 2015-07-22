@@ -21,5 +21,8 @@
     <!-- Labels -->
     <string name="string_sign_up">Don\'t have an Account? Sign Up!</string>
     <string name="subtitle">fynd action in your city.</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+    <string name="hello_world">Hello world!</string>
 
 </resources>
