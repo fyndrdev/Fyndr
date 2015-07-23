@@ -14,6 +14,7 @@
     <!-- Hints -->
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
 
     <!-- Buttons -->
     <string name="button_sign_in">SIGN IN</string>
@@ -22,7 +23,9 @@
     <string name="string_sign_up">Don\'t have an Account? Sign Up!</string>
     <string name="subtitle">fynd action in your city.</string>
     <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="string_sign_up_info">We just need some information to get you started.</string>
 
-    <string name="hello_world">Hello world!</string>
+    <!-- Menus -->
+    <string name="menu_signup_next">NEXT</string>
 
 </resources>

@@ -36,6 +36,7 @@
 
         <activity
             android:name=".SignUpActivity"
+            android:parentActivityName="florianthompson.com.fyndr.LoginActivity"
             android:label="@string/title_activity_sign_up" >
         </activity>
     </application>
